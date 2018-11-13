@@ -1,0 +1,25 @@
+
+
+
+
+.fondo{
+	background-image: url("images/bg.jpeg");
+	padding: 4%;
+
+}
+
+.title_fondo{
+	color:white;
+	font-size: 200%;
+	text-align: center;
+}
+
+.logo_fondo{
+	width: 20%;
+}
+
+.text_fondo{
+	color: white;
+	font-size: 100%;
+	text-align: center;
+}
